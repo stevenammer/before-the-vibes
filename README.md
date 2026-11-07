@@ -2,7 +2,7 @@
 
 > **Still missing: the finished word search.** I finished it in 2014, writing much of it in a text editor at work and debugging it at home. I searched my mailbox and my computers in November 2026. The only copy I can find is the unfinished snapshot from February 6, 2014, which is in this repo and does not work. The ending of that project is missing. If it turns up, it will be added with its source and date.
 
-Student C programs I wrote in 2013 and 2014 in two intro courses. Published as they were, bugs included.
+C coursework from two intro courses I took in 2013 and 2014. This archive includes my individual assignments and shared group projects, bugs included.
 
 I use AI to build software now. This repo exists so you can see what I could do before that, and how rough it was. It is not a portfolio of engineering work.
 
@@ -24,7 +24,7 @@ I use AI to build software now. This repo exists so you can see what I could do 
 
 ## What it does show
 
-Honest answer, from a line-by-line review: someone who splits a problem into small named functions from the first file, keeps building past the assignment (the drinking game has a menu, a sort and a formula nobody asked for), and gets better between 2013 and 2014. That is curiosity and follow-through. Read `ASSESSMENT.md` for the bugs and the limits.
+Honest answer, from a line-by-line review: small named functions from the first file and increasing use of structs and pointers across the assignments. The shared drinking game includes a menu, a sort and a formula. That is curiosity and follow-through. Read `ASSESSMENT.md` for the bugs and the limits.
 
 ## Files you should know about
 
@@ -35,9 +35,13 @@ Honest answer, from a line-by-line review: someone who splits a problem into sma
 
 ## About the group files
 
-`group-work-names-redacted/drinkingGame.c` had a three-person team in its header. My recollection is that I wrote nearly all of it, and I don't remember working closely with others. The code can't settle that. What it does show is one consistent coding style from top to bottom, with the same habits as my solo files, including the same function names (`getChoice`, `displayMenu`). Style is evidence, not proof, and a shared class template could explain some of it, so take my account as my account.
+These files were submitted by groups of three and four classmates. They're shared work. I don't have reliable records showing who contributed which lines.
 
-The group tally project (`GroupProjectComplete.c` and its earlier draft) was credited to a group of four. A diff of the two versions shows what changed between them, not who typed it.
+I remember doing substantial coding on some assignments, but that's my recollection. The files don't independently establish each person's contribution, and similar coding habits can't settle that.
+
+The drinking game had a three-person team in its header. The tally project (`GroupProjectComplete.c` and its earlier draft) was credited to four people. A diff shows what changed between the tally versions, not who typed it.
+
+If any former teammates remember things differently or have files to add, I'd welcome their perspective. Names stay private unless the people involved agree to be identified.
 
 Names and assignment details are removed from those files. `group-work-names-redacted/REDACTIONS.md` lists exactly which lines changed.
 

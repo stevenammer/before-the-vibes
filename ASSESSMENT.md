@@ -52,7 +52,9 @@ It fails, as any intro code from 2013 would.
 
 ## A note on authorship
 
-A style comparison across all the files found the same habits throughout (the same `#define pause` shortcut, brace and indent style, and the same function names in the drinking game and my solo strings program), with no visible change of hand. That fits my recollection that I wrote the drinking game myself. It is not proof: the group tally draft shares the same habits too, and a class template could explain some of it.
+The group files belong to the teams credited in their original headers: three people for the drinking game and four for the tally project. I remember doing substantial coding on some assignments, but I don't have reliable records showing each person's contribution.
+
+Similar names, formatting and coding habits don't establish authorship. Shared instruction or a class template could explain those similarities. The observations above describe the code, not who deserves credit for particular lines. Former teammates' corrections or additional files are welcome, with their identities kept private unless they agree otherwise.
 
 ## What the code does not prove
 
@@ -60,7 +62,7 @@ Professional engineering ability. Testing practice. Version control habits. Scal
 
 ## What it honestly shows
 
-Curiosity and persistence across months. Comfort breaking a task into small named functions. Going past the assignment on my own. Learning across the period. Finishing small programs end to end. Willingness to publish work that is rough.
+Curiosity and persistence across months. Comfort breaking a task into small named functions. Exploring menus, sorting and more complex data structures. Learning across the period. Finishing small programs end to end. Willingness to publish work that is rough.
 
 ## What a hiring manager should conclude
 
